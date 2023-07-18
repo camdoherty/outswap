@@ -1,6 +1,6 @@
 # outswap
 
-A simple command line interface for the DisplayChangerII (dc2.exe)
+A simple command line interface for the Display Changer II (dc2.exe)
 
 Allows you to select saved dispaly configuration from a list.
 
